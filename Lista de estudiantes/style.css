@@ -1,0 +1,69 @@
+header{
+    background: url(Images/Paracaidismo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 5px;
+    margin: 0px;
+    border: 2px solid black;
+    border-width: 5px;
+}
+
+.menu-contenedor h1{
+    font-size: 50px;
+    font-family: 'Bad Script', cursive;
+    text-align: center;
+}
+
+body{
+    background-color: gray;
+    background-image: url(Images/Sky.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+
+table, th, td{
+    border: 2px solid black;
+    background-color: crimson;
+    font-size: 25px;
+    border-collapse: collapse;
+    border-width: 5px;
+    font-family: 'Cagliostro', sans-serif;
+}
+
+table {
+    width: 90%;
+}
+
+th, td{
+    padding: 10px;
+}
+
+th{
+    text-align: left;
+}
+
+.parrafo{
+    font-size: 40px;
+    color: white;
+    margin: 10px;
+    padding: 50px;
+    font-family: 'Cagliostro', sans-serif;
+}
+
+footer {
+    background-color: #333;
+    font-family: 'Bad Script', cursive;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.foot img{
+    border-radius: 50px;
+    width: 70px;
+    height: 70px;
+    margin-top: 20px;
+}
